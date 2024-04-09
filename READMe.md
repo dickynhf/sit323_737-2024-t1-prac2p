@@ -20,7 +20,13 @@ To get Express Server up and running on your local machine, follow these steps:
     git clone https://github.com/dickynhf/sit323_737-2024-t1-prac2p.git
     ```
 
-2. **Install Dependencies**: Install the necessary project dependencies by running:
+2. **Navigate to the Project Directory**: Change into the project directory using:
+
+    ```sh
+    cd sit323_737-2024-t1-prac2p
+    ```
+
+3. **Install Dependencies**: Install the necessary project dependencies by running:
 
     ```sh
     npm install
