@@ -36,7 +36,7 @@ Follow these steps to start the Express Server:
     node server.js
     ```
 
-    This will start the Express server on a predefined port (commonly port 3000).
+    This will start the Express server on a predefined port (commonly port 3300).
 
 2. **Access the Server**: Open your web browser and go to [http://localhost:3300](http://localhost:3300). You should see the HTML content served by the Express Server.
 
